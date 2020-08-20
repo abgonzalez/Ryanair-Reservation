@@ -1,0 +1,2 @@
+2020-08-19 21:07:57.430 +01:00 [Information] [Microsoft.EntityFrameworkCore.Infrastructure] [{ Id: 10403, Name: "Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized" }] Entity Framework Core "2.1.14-servicing-32113" initialized '"ReservationApiDbContext"' using provider '"Microsoft.EntityFrameworkCore.InMemory"' with options: "StoreName=Reservations "
+2020-08-19 21:07:57.496 +01:00 [Information] [Microsoft.EntityFrameworkCore.Update] [{ Id: 30100, Name: "Microsoft.EntityFrameworkCore.Update.ChangesSaved" }] Saved 0 entities to in-memory store.
