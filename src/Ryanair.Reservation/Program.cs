@@ -83,7 +83,7 @@ namespace Ryanair.Reservation
         /// </summary>
         /// <param name="context">App's host context (including environment and configuration)</param>
         /// <param name="loggingBuilder">The ILoggingBuilde to add providers to</param>
-        private static void ConfigureLogging(WebHostBuilderContext context, ILoggingBuilder loggingBuilder)
+        public static void ConfigureLogging(WebHostBuilderContext context, ILoggingBuilder loggingBuilder)
         {
             var env = context.HostingEnvironment;
             var config = context.Configuration;

@@ -1,0 +1,29 @@
+<CreationReservationRequest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <email>contact@contact.com</email>
+  <creditCard>0123456789012345</creditCard>
+  <flights>
+    <key>Flight00052</key>
+    <passengers>
+      <name>Robert Plant</name>
+      <bags>3</bags>
+      <seat>27</seat>
+    </passengers>
+    <passengers>
+      <name>Ozzy Osbourne</name>
+      <bags>0</bags>
+      <seat>28</seat>
+    </passengers>
+  </flights>
+  <flights>
+    <key>Flight00103</key>
+    <passengers>
+      <name>Robert Plant</name>
+      <bags>2</bags>
+      <seat>41</seat>
+    </passengers>
+    <passengers>
+      <name>Ozzy Osbourne</name>
+      <seat>40</seat>
+    </passengers>
+  </flights>
+</CreationReservationRequest>
